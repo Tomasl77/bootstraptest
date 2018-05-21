@@ -1,0 +1,39 @@
+*{
+	margin:0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+#carousel{
+	height: 400px;
+	width: 400px;
+	margin: 0 auto;
+}
+
+.card-link{
+	width: 150px;
+	height: 150px;
+	text-align: center;
+	margin-left: 10px;
+}
+
+.card{
+	/*border: 5px solid red;*/
+	margin: auto
+}
+
+.card-body{
+	display: flex;
+	margin: auto;
+}
+h6{
+	color: red;
+}
+
+.ima{
+	margin: 10px;
+}
+
+.btn {
+	background-color: blue;
+}
